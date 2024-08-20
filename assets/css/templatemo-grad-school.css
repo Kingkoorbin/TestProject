@@ -165,7 +165,7 @@ a.menu-link { display: none; }
 }
 
 .main-header {
-    background-color: rgba(22,34,57,0.95);
+    background-color: #ff93ac;
     height: 80px;
     position: fixed;
     z-index: 12;
@@ -187,7 +187,7 @@ a.menu-link { display: none; }
 }
 .main-header .logo a em {
     font-style: normal;
-    color: #f5a425;
+    color: #FF084A;
 }
 
 .main-menu {
@@ -230,7 +230,7 @@ a.menu-link { display: none; }
 .main-menu li .sub-menu {
     position: absolute;
     width: 160px;
-    background-color: #18233a;
+    background-color: #ff93ac;
     opacity: 0;
     visibility: hidden;
     transition: all 0.5s;
@@ -247,7 +247,7 @@ a.menu-link { display: none; }
     margin-left: 0px;
     margin-bottom: 15px;
     padding-bottom: 15px;
-    border-bottom: 1px solid #121b2f;
+    border-bottom: 1px solid #ff93ac;
 }
 
 .main-menu li .sub-menu li:first-child {
@@ -311,7 +311,7 @@ a.menu-link { display: none; }
 
 .video-overlay {
     position: absolute;
-    background-color: rgba(22,34,57,0.85);
+    background-color: rgba(45, 31, 42, 0.85);
     top: 0;
     left: 0;
     bottom: 7px;
@@ -402,7 +402,7 @@ section.features .col-4 {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #0c1228;
+  background-color: #c442d0;
   color: #fff;
   padding: 40px;
 }
@@ -491,7 +491,7 @@ section.features .col-4 {
 
 section.why-us {
     background-image: url(../images/choosing-bg.jpg);
-    background-color: #172238;
+    background-color: #ff93ac;
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 100px;
