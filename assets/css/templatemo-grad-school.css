@@ -69,7 +69,7 @@ p {
 /* Buttons */
 
 .main-button a {
-    background-color: #f5a425;
+    background-color: #FF084A;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -348,7 +348,7 @@ a.menu-link { display: none; }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #f5a425;
+  color: #FF084A;
   font-weight: 900;
 }
 
@@ -402,7 +402,7 @@ section.features .col-4 {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #c442d0;
+  background-color: #FF084A;
   color: #fff;
   padding: 40px;
 }
@@ -490,7 +490,7 @@ section.features .col-4 {
 /* Why Choosing Us */
 
 section.why-us {
-    background-image: url(../images/choosing-bg.jpg);
+    background-image: url(../images/—Pngtree—education\ all\ icons\ background\ vector_1599088-overlay.jpg);
     background-color: #ff93ac;
     background-repeat: no-repeat;
     background-size: cover;
@@ -565,15 +565,15 @@ section.why-us {
 #tabs ul .ui-tabs-active {
 }
 #tabs ul .ui-tabs-active a {
-  color: #f5a425;
+  color: #FF084A;
 }
 #tabs ul .ui-tabs-active a:after {
-  background-color: #f5a425;
+  background-color: #FF084A;
   width: 15px;
   height: 15px;
 }
 #tabs ul .ui-tabs-active a:before {
-  border-color: #f5a425;
+  border-color: #ffffff;
 }
 #tabs h4 {
     margin-top: 60px;
