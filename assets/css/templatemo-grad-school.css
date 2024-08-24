@@ -490,7 +490,7 @@ section.features .col-4 {
 /* Why Choosing Us */
 
 section.why-us {
-    background-image: url(../images/—Pngtree—education\ all\ icons\ background\ vector_1599088-overlay.jpg);
+    background-image: url(../images/image\ \(1\).png);
     background-color: #ff93ac;
     background-repeat: no-repeat;
     background-size: cover;
@@ -565,10 +565,10 @@ section.why-us {
 #tabs ul .ui-tabs-active {
 }
 #tabs ul .ui-tabs-active a {
-  color: #FF084A;
+  color: #000000;
 }
 #tabs ul .ui-tabs-active a:after {
-  background-color: #FF084A;
+  background-color: #000000;
   width: 15px;
   height: 15px;
 }
@@ -875,7 +875,7 @@ section.courses .owl-carousel button.owl-dot {
     outline: none;
 }
 section.courses .owl-carousel button.active {
-    background-color: #f5a425;
+    background-color: #000000;
 }
 
 
