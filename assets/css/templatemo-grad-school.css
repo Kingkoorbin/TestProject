@@ -348,7 +348,7 @@ a.menu-link { display: none; }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #f5a425;
+  color: #FF084A;
   font-weight: 900;
 }
 
@@ -402,13 +402,13 @@ section.features .col-4 {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #c442d0;
+  background-color: #FF084A;
   color: #fff;
   padding: 40px;
 }
 
 .features-content:hover {
-    background-color: #f5a425;
+    background-color: #FF084A;
     box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
 }
 
