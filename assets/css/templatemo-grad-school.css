@@ -408,7 +408,11 @@ section.features .col-4 {
 }
 
 .features-content:hover {
+<<<<<<< HEAD
     background-color: #808080;
+=======
+    background-color: #FF084A;
+>>>>>>> 78ee23733c08064b38e616e040ece68ff3e7ccbe
     box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
 }
 
@@ -490,7 +494,11 @@ section.features .col-4 {
 /* Why Choosing Us */
 
 section.why-us {
+<<<<<<< HEAD
     background-image: url(../images/choosing-bg.jpg);
+=======
+    background-image: url(../images/image\ \(1\).png);
+>>>>>>> 78ee23733c08064b38e616e040ece68ff3e7ccbe
     background-color: #ff93ac;
     background-repeat: no-repeat;
     background-size: cover;
@@ -565,10 +573,10 @@ section.why-us {
 #tabs ul .ui-tabs-active {
 }
 #tabs ul .ui-tabs-active a {
-  color: #FF084A;
+  color: #000000;
 }
 #tabs ul .ui-tabs-active a:after {
-  background-color: #FF084A;
+  background-color: #000000;
   width: 15px;
   height: 15px;
 }
@@ -875,7 +883,7 @@ section.courses .owl-carousel button.owl-dot {
     outline: none;
 }
 section.courses .owl-carousel button.active {
-    background-color: #f5a425;
+    background-color: #000000;
 }
 
 
