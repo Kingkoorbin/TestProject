@@ -269,13 +269,13 @@ a.menu-link { display: none; }
 }
 
 .main-menu li .sub-menu li a:hover {
-    color: #f5a425;
+    color: #000000;
     border: none;
 }
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    border: 2px solid #f5a425;
+    border: 2px solid #000000;
 }
 
 @media (max-width: 950px) {
@@ -408,7 +408,7 @@ section.features .col-4 {
 }
 
 .features-content:hover {
-    background-color: #f5a425;
+    background-color: #808080;
     box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
 }
 
@@ -490,7 +490,7 @@ section.features .col-4 {
 /* Why Choosing Us */
 
 section.why-us {
-    background-image: url(../images/—Pngtree—education\ all\ icons\ background\ vector_1599088-overlay.jpg);
+    background-image: url(../images/choosing-bg.jpg);
     background-color: #ff93ac;
     background-repeat: no-repeat;
     background-size: cover;
