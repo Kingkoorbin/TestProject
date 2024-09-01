@@ -1,1 +1,5 @@
-Test Project for Web
+This project is designed to develop a comprehensive website for Lourdes College that will effectively showcase a wide range of information about the institution. The website will feature detailed sections on the college's diverse course offerings, upcoming events, rich history, and other essential aspects of the college experience.
+
+To create this website, programmers have utilized fundamental web development technologies including HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript. HTML provides the structural foundation of the site, ensuring that content is properly organized and accessible. CSS is employed to enhance the visual appeal of the site, allowing for the customization of layout, colors, fonts, and other stylistic elements to align with Lourdes College's branding and aesthetic preferences. JavaScript is used to add interactive elements and dynamic features, improving user engagement and functionality.
+
+By leveraging these technologies, the project aims to deliver a user-friendly and visually appealing website that effectively communicates the essence and offerings of Lourdes College, while providing a seamless browsing experience for visitors.
