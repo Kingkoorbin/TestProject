@@ -180,6 +180,14 @@ a.menu-link { display: none; }
     padding-left: 60px;
 }
 
+.main-header .logo img {
+  width: 60px;
+  height: auto;
+  padding-right: 10px;
+  padding-bottom: 13px;
+  padding-top: 5px;
+}
+
 .main-header .logo a {
     font-size: 36px;
     text-transform: uppercase;
